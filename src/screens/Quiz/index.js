@@ -16,27 +16,36 @@ function ResultWidget({ results }) {
   return (
     <Widget>
       <Widget.Header>
+        <BackLinkArrow href="/" />
         Tela de Resultado:
       </Widget.Header>
 
       <Widget.Content>
-        <p>
-          Você acertou
+        <h1>
+          Você fez
           {' '}
-          {results.filter((x) => x).length}
+          {results.reduce((somatoriaAtual, resultAtual) => {
+            const isAcerto = resultAtual === true;
+            if (isAcerto) {
+              return somatoriaAtual + 10;
+            }
+            return somatoriaAtual;
+          }, 0)}
           {' '}
-          perguntas
-        </p>
+          pontos!
+        </h1>
         <ul>
           {results.map((result, index) => (
             <li key={`result__${result}`}>
               #
-              {index + 1}
-              {' '}
+              {index + 1 > 9
+                ? index + 1
+                : `0${index + 1}`}
+              {'  '}
               Resultado:
               {result === true
-                ? 'Acertou'
-                : 'Errou'}
+                ? ' Acertou'
+                : ' Errou'}
             </li>
           ))}
         </ul>
@@ -141,8 +150,14 @@ function QuestionWidget({
           <Button type="submit" disabled={!hasAlternativeSelected}>
             Confirmar
           </Button>
-          {isQuestionSubmited && isCorrect && <p>Você acertou!</p>}
-          {isQuestionSubmited && !isCorrect && <p>Você errou!</p>}
+          {isQuestionSubmited && isCorrect && <p>Você acertou. Parabéns!</p>}
+          {isQuestionSubmited && !isCorrect && (
+          <p>
+            Você errou. A resposta certa era
+            {' '}
+            {question.alternatives[question.answer]}
+          </p>
+          )}
         </AlternativesForm>
       </Widget.Content>
     </Widget>

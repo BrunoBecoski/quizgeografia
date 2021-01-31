@@ -5,8 +5,8 @@
   "questions": [
     {
       "image": "https://upload.wikimedia.org/wikipedia/commons/7/78/Morocco_%28orthographic_projection%2C_WS_claimed%29.svg",
-      "title": "Questão número 1",
-      "description": "Que país é esse ?",
+      "title": "Que país é esse?",
+      "description": "Localizado no Norte da África.",
       "answer": 1,
       "alternatives": [
         "Argélia",
@@ -17,8 +17,8 @@
     }, 
     {
       "image": "https://upload.wikimedia.org/wikipedia/commons/9/96/Sri_Lanka_%28orthographic_projection%29.svg",
-      "title": "Questão número 2",
-      "description": "Que país é esse ?",
+      "title": "Que país é esse?",
+      "description": "Localizado no Sul da Ásia.",
       "answer": 2,
       "alternatives": [
         "Índia",
@@ -28,9 +28,21 @@
       ]
     },
     {
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Europe-Norway_%28orthographic_projection%29.svg",
+      "title": "Que país é esse?",
+      "description": "Localizado no Norte da Europa.",
+      "answer": 1,
+      "alternatives": [
+        "Suécia",
+        "Noruega",
+        "Dinamarca",
+        "Finlândia"
+      ]
+    },
+    {
       "image": "https://upload.wikimedia.org/wikipedia/commons/0/07/PER_orthographic.svg",
-      "title": "Questão número 3",
-      "description": "Que país é esse ?",
+      "title": "Que país é esse?",
+      "description": "Localizado na América do Sul.",
       "answer": 0,
       "alternatives": [
         "Peru",
@@ -40,9 +52,45 @@
       ]
     },
     {
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Mongolia_%28orthographic_projection%29.svg",
+      "title": "Que país é esse?",
+      "description": "Localizado na Ásia Oriental.",
+      "answer": 1,
+      "alternatives": [
+        "Cazaquistão",
+        "Móngolia",
+        "China",
+        "Afeganistão"
+      ]
+    },
+    {
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/89/Angola_%28orthographic_projection%29.svg",
+      "title": "Que país é esse?",
+      "description": "Localizado na África Central.",
+      "answer": 2,
+      "alternatives": [
+        "Moçambique",
+        "Nigéria",
+        "Angola",
+        "Congo"
+      ]
+    },
+    {
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Haiti_%28orthographic_projection%29.svg",
+      "title": "Que país é esse?",
+      "description": "Localizado no Caribe.",
+      "answer": 3,
+      "alternatives": [
+        "Honduras",
+        "Jamaica",
+        "Cuba",
+        "Haiti"
+      ]
+    },
+    {
       "image": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Ethiopia_%28Africa_orthographic_projection%29.svg",
-      "title": "Questão número 4",
-      "description": "Que país é esse ?",
+      "title": "Que país é esse?",
+      "description": "Localizado na África Oriental ",
       "answer": 3,
       "alternatives": [
         "Sudão",
@@ -52,75 +100,27 @@
       ]
     },
     {
-      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Mongolia_%28orthographic_projection%29.svg",
-      "title": "Questão número 5",
-      "description": "Que país é esse ?",
-      "answer": 1,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/76/Europe-Ukraine_%28orthographic_projection%3B_disputed_territory%29.svg",
+      "title": "Que país é esse?",
+      "description": "Localizado no Leste da Europa.",
+      "answer": 2,
       "alternatives": [
-        "Cazaquistão",
-        "Móngolia",
-        "China",
-        "Afeganistão"
+        "Geórgia",
+        "Hungria",
+        "Ucrânia",
+        "Romênia"
       ]
     },
     {
-      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Mongolia_%28orthographic_projection%29.svg",
-      "title": "Questão número 5",
-      "description": "Que país é esse ?",
-      "answer": 1,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/23/Malaysia_%28orthographic_projection%29.svg",
+      "title": "Que país é esse?",
+      "description": "Localizado no Sudeste da Ásia.",
+      "answer": 0,
       "alternatives": [
-        "Cazaquistão",
-        "Móngolia",
-        "China",
-        "Afeganistão"
-      ]
-    },
-    {
-      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Mongolia_%28orthographic_projection%29.svg",
-      "title": "Questão número 5",
-      "description": "Que país é esse ?",
-      "answer": 1,
-      "alternatives": [
-        "Cazaquistão",
-        "Móngolia",
-        "China",
-        "Afeganistão"
-      ]
-    },
-    {
-      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Mongolia_%28orthographic_projection%29.svg",
-      "title": "Questão número 5",
-      "description": "Que país é esse ?",
-      "answer": 1,
-      "alternatives": [
-        "Cazaquistão",
-        "Móngolia",
-        "China",
-        "Afeganistão"
-      ]
-    },
-    {
-      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Mongolia_%28orthographic_projection%29.svg",
-      "title": "Questão número 5",
-      "description": "Que país é esse ?",
-      "answer": 1,
-      "alternatives": [
-        "Cazaquistão",
-        "Móngolia",
-        "China",
-        "Afeganistão"
-      ]
-    },
-    {
-      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Mongolia_%28orthographic_projection%29.svg",
-      "title": "Questão número 5",
-      "description": "Que país é esse ?",
-      "answer": 1,
-      "alternatives": [
-        "Cazaquistão",
-        "Móngolia",
-        "China",
-        "Afeganistão"
+        "Málasia",
+        "Filipinas",
+        "Tailândia",
+        "Indonésia"
       ]
     }
   ],
@@ -131,8 +131,8 @@
   ],
   "theme": {
     "colors": {
-      "primary": "#336733",
-      "secondary": "#38668D",
+      "primary": "#255276",
+      "secondary": "#1f8fff",
       "mainBg": "#000000E6",
       "contrastText": "#FFFFFF",
       "wrong": "#FF5722",
