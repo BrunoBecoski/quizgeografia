@@ -1,0 +1,143 @@
+{
+  "bg": "https://ane4bf-datap1.s3-eu-west-1.amazonaws.com/wmocms/s3fs-public/Screen_Shot_2015-12-03_at_12.51.56.png?0y.rV0xgWwgfKq77F_MXbHFi38HcCDrJ",
+  "title": "Países do mundo",
+  "description": "Você é bom em geografia?",
+  "questions": [
+    {
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/78/Morocco_%28orthographic_projection%2C_WS_claimed%29.svg",
+      "title": "Questão número 1",
+      "description": "Que país é esse ?",
+      "answer": 1,
+      "alternatives": [
+        "Argélia",
+        "Marrocos",
+        "Tunísia",
+        "Líbia"
+      ]
+    }, 
+    {
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/96/Sri_Lanka_%28orthographic_projection%29.svg",
+      "title": "Questão número 2",
+      "description": "Que país é esse ?",
+      "answer": 2,
+      "alternatives": [
+        "Índia",
+        "Bangladesh",
+        "Sri Lanka",
+        "Myanmar"
+      ]
+    },
+    {
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/07/PER_orthographic.svg",
+      "title": "Questão número 3",
+      "description": "Que país é esse ?",
+      "answer": 0,
+      "alternatives": [
+        "Peru",
+        "Bolívia",
+        "Equador",
+        "Colômbia"
+      ]
+    },
+    {
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Ethiopia_%28Africa_orthographic_projection%29.svg",
+      "title": "Questão número 4",
+      "description": "Que país é esse ?",
+      "answer": 3,
+      "alternatives": [
+        "Sudão",
+        "Somália",
+        "Quênia",
+        "Etiópia"
+      ]
+    },
+    {
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Mongolia_%28orthographic_projection%29.svg",
+      "title": "Questão número 5",
+      "description": "Que país é esse ?",
+      "answer": 1,
+      "alternatives": [
+        "Cazaquistão",
+        "Móngolia",
+        "China",
+        "Afeganistão"
+      ]
+    },
+    {
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Mongolia_%28orthographic_projection%29.svg",
+      "title": "Questão número 5",
+      "description": "Que país é esse ?",
+      "answer": 1,
+      "alternatives": [
+        "Cazaquistão",
+        "Móngolia",
+        "China",
+        "Afeganistão"
+      ]
+    },
+    {
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Mongolia_%28orthographic_projection%29.svg",
+      "title": "Questão número 5",
+      "description": "Que país é esse ?",
+      "answer": 1,
+      "alternatives": [
+        "Cazaquistão",
+        "Móngolia",
+        "China",
+        "Afeganistão"
+      ]
+    },
+    {
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Mongolia_%28orthographic_projection%29.svg",
+      "title": "Questão número 5",
+      "description": "Que país é esse ?",
+      "answer": 1,
+      "alternatives": [
+        "Cazaquistão",
+        "Móngolia",
+        "China",
+        "Afeganistão"
+      ]
+    },
+    {
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Mongolia_%28orthographic_projection%29.svg",
+      "title": "Questão número 5",
+      "description": "Que país é esse ?",
+      "answer": 1,
+      "alternatives": [
+        "Cazaquistão",
+        "Móngolia",
+        "China",
+        "Afeganistão"
+      ]
+    },
+    {
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Mongolia_%28orthographic_projection%29.svg",
+      "title": "Questão número 5",
+      "description": "Que país é esse ?",
+      "answer": 1,
+      "alternatives": [
+        "Cazaquistão",
+        "Móngolia",
+        "China",
+        "Afeganistão"
+      ]
+    }
+  ],
+  "external": [
+    "https://aluraquiz-css.omariosouto.versel.app/",
+    "https://aluraquiz-base.alura-challenges.vercel.app/",
+    "https://aluraquiz-devsoutinho.omariosouto.vercel.app"
+  ],
+  "theme": {
+    "colors": {
+      "primary": "#336733",
+      "secondary": "#38668D",
+      "mainBg": "#000000E6",
+      "contrastText": "#FFFFFF",
+      "wrong": "#FF5722",
+      "success": "#4CAF50"
+    },
+    "borderRadius": "4px"
+  }
+}
